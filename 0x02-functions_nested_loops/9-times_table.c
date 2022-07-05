@@ -11,7 +11,7 @@ void times_table(void)
 	int colmn;
 	int dgt;
 
-	for (row = 0; row <= 9; row++)
+	for (row = 0; row < 9; row++)
 	{
 		_putchar('0');
 		_putchar(',');
