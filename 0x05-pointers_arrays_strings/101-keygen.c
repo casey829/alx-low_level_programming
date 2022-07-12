@@ -7,7 +7,7 @@
  *
  * Return: always 0
  */
-int mauin(void)
+int main(void)
 {
 	int i, j, k, s;
 	char c[] = "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz";
