@@ -1,1 +1,1 @@
-usind C
+Another pointers and array
